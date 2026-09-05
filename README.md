@@ -1,2 +1,2 @@
 # Jogo
-Projeto de jogo realizado em conjunto com amigos
+Projeto de jogo realizado em conjunto com amigos!
